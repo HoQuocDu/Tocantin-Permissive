@@ -1,7 +1,7 @@
 TOCANTIN PERMISSIVO
 
  <Nome do software>
- Copyright (C) <Ano> <Autores>
+ (C) <Ano> <Autores>
 
  A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia
  deste software e arquivos de documentação associados (o "Software"), para lidar
